@@ -1,7 +1,6 @@
-nano .gitignore.buildozer/ bin/ __pycache__/ *.pyc .env/ venv/ .python-for-android/ KivyMD/ stanvirt .buildozer/ 
-stanvirt/ bin/
 *.sqlite
 *.db
 *.zip
 .buildozer/
+kivy_venv/
 KivyMD/
